@@ -10,14 +10,6 @@ I turn fuzzy ideas, voice notes, personal problems, and “wait, this should exi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2F6BFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamaralynnrichards/)
 [![TikTok](https://img.shields.io/badge/TikTok-@tamaralynnrichard-1A1613?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tamaralynnrichard)
 
-<br/>
-
-[![Work](https://img.shields.io/badge/Work-Featured%20Builds-ED3A24?style=for-the-badge)](#what-im-building)
-[![Status](https://img.shields.io/badge/Status-System-FFC835?style=for-the-badge)](#status-vocabulary)
-[![Build Lane](https://img.shields.io/badge/Build%20Lane-Process-11B981?style=for-the-badge)](#my-build-lane)
-[![Toolkit](https://img.shields.io/badge/Toolkit-Stack-7C4DFF?style=for-the-badge)](#toolkit)
-[![Start Here](https://img.shields.io/badge/Start-Here-1A1613?style=for-the-badge)](#start-here)
-
 </div>
 
 ---
