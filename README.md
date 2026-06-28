@@ -18,17 +18,66 @@ I turn fuzzy ideas, voice notes, personal problems, and “wait, this should exi
 
 I build across fragrance intelligence, beauty-tech, family systems, creative production, interiors, fintech, fiction, and tools for everyday chaos. The thread is simple: **AI helps me move from idea → prototype → product story before the spark evaporates.**
 
-| Project | What it is | Status |
-|---|---|---|
-| **Aurë** | Fragrance intelligence + scent wardrobe app | Beta |
-| **ACCORD** | Weather-based perfume ritual automation | In the lab |
-| **BonnetNoona** | AI-directed claymation comedy series | In production |
-| **AestheticSim** | Facial simulation + treatment-planning platform | Prototype |
-| **Roommate Tracker** | Shared-rent and payment tracker | Built |
-| **My Plate Planner** | Diet-aware meal planner + grocery helper | Built |
-| **Interior Render Studio** | AI room rendering and style exploration tool | Prototype |
-| **Kids’ Habit + Reward App** | Routine, reward, and puzzle system for kids | Built · testing |
-| **Helix7** | Voice-note-to-web-novel workflow | Drafting |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">What it is</th>
+      <th align="left">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Aurë</strong></td>
+      <td>Fragrance intelligence + scent wardrobe app</td>
+      <td>Beta</td>
+    </tr>
+    <tr>
+      <td><strong>ACCORD</strong></td>
+      <td>Weather-based perfume ritual automation</td>
+      <td>In the lab</td>
+    </tr>
+    <tr>
+      <td><strong>BonnetNoona</strong></td>
+      <td>AI-directed claymation comedy series</td>
+      <td>In production</td>
+    </tr>
+    <tr>
+      <td><strong>AestheticSim</strong></td>
+      <td>Facial simulation + treatment-planning platform</td>
+      <td>Prototype</td>
+    </tr>
+    <tr>
+      <td><strong>Roommate Tracker</strong></td>
+      <td>Shared-rent and payment tracker</td>
+      <td>Built</td>
+    </tr>
+    <tr>
+      <td><strong>My Plate Planner</strong></td>
+      <td>Diet-aware meal planner + grocery helper</td>
+      <td>Built</td>
+    </tr>
+    <tr>
+      <td><strong>Interior Render Studio</strong></td>
+      <td>AI room rendering and style exploration tool</td>
+      <td>Prototype</td>
+    </tr>
+    <tr>
+      <td><strong>Kids’ Habit + Reward App</strong></td>
+      <td>Routine, reward, and puzzle system for kids</td>
+      <td>Built · testing</td>
+    </tr>
+    <tr>
+      <td><strong>Helix7</strong></td>
+      <td>Voice-note-to-web-novel workflow</td>
+      <td>Drafting</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
