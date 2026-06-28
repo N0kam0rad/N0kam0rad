@@ -32,52 +32,63 @@ I build across fragrance intelligence, beauty-tech, family systems, creative pro
     <tr>
       <td><strong>Aurë</strong></td>
       <td>Fragrance intelligence + scent wardrobe app</td>
-      <td>Beta</td>
+      <td>In progress</td>
     </tr>
     <tr>
       <td><strong>ACCORD</strong></td>
       <td>Weather-based perfume ritual automation</td>
-      <td>In the lab</td>
+      <td>In progress</td>
     </tr>
     <tr>
       <td><strong>BonnetNoona</strong></td>
       <td>AI-directed claymation comedy series</td>
-      <td>In production</td>
+      <td>In progress</td>
     </tr>
     <tr>
       <td><strong>AestheticSim</strong></td>
       <td>Facial simulation + treatment-planning platform</td>
-      <td>Prototype</td>
+      <td>In progress</td>
     </tr>
     <tr>
       <td><strong>Roommate Tracker</strong></td>
       <td>Shared-rent and payment tracker</td>
-      <td>Built</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td><strong>My Plate Planner</strong></td>
       <td>Diet-aware meal planner + grocery helper</td>
-      <td>Built</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td><strong>Interior Render Studio</strong></td>
       <td>AI room rendering and style exploration tool</td>
-      <td>Prototype</td>
+      <td>In progress</td>
     </tr>
     <tr>
       <td><strong>Kids’ Habit + Reward App</strong></td>
       <td>Routine, reward, and puzzle system for kids</td>
-      <td>Built · testing</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td><strong>Helix7</strong></td>
       <td>Voice-note-to-web-novel workflow</td>
-      <td>Drafting</td>
+      <td>In progress</td>
     </tr>
   </tbody>
 </table>
 
 </div>
+
+---
+
+## Status vocabulary
+
+```text
+Done        = usable, shipped, or complete enough to demo honestly
+In progress = actively building, beta, prototype, testing, or drafting
+Planned     = scoped or committed, but not started yet
+Idea        = early concept only
+```
 
 ---
 
